@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arpitsharma752002@gmail.com**
 
-- ⚡ Fun fact **Vibin n Coding🌴**
+- ⚡ Fun fact **Vibin n Codin🌴**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
