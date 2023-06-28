@@ -1,6 +1,6 @@
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
 <h1 align="center">Hi 👋, I'm Arpit Sharma</h1>
-<h3 align="center">A passionate frontend && full stack MERN developer from India</h3>
+<h3 align="center">A passionate Full Stack MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitsharma-33&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsharma-33" /> </p>
