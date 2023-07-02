@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arpit_d14u" target="blank"><img src="https://img.shields.io/twitter/follow/arpit_d14u?logo=twitter&style=for-the-badge" alt="arpit_d14u" /></a> </p>
 <br/>
-- 🔭 I’m currently working on **CopyAI - An AI Bot**
+- 🔭 I’m currently working on **CopyAI - An AI Chatbox with TinyMCE Editor.**
 
 - 💬 Ask me about **Web , React , JavaScript**
 
