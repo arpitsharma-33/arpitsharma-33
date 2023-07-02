@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitsharma-33&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsharma-33" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arpit_d14u" target="blank"><img src="https://img.shields.io/twitter/follow/arpit_d14u?logo=twitter&style=for-the-badge" alt="arpit_d14u" /></a> </p>
 <br/>
 - 🔭 I’m currently working on **CopyAI - An AI Chatbox with TinyMCE Editor.**
 
@@ -17,7 +16,6 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arpit_d14u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit_d14u" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arpit-sharma-473458252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpit-sharma-473458252" height="30" width="40" /></a>
 <a href="https://instagram.com/sharma_arpit59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharma_arpit59" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arpitshar57ip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arpitshar57ip" height="30" width="40" /></a>
