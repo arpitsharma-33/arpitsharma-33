@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitsharma-33&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsharma-33" /> </p>
 
 <br/>
-- 🔭 I’m currently working on **CopyAI - An AI Chatbox with TinyMCE Editor.**
+- 🔭 I’m currently working on **CopyAI - An AI Chatbox with Rich Text Editor.**
 
 - 💬 Ask me about **Web , React , JavaScript**
 
